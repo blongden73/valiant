@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div class="window-container">
   <div class="background-image-change">
     <img class="background-image-src">
