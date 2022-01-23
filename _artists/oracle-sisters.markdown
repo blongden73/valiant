@@ -3,6 +3,7 @@ title: ORACLE SISTERS
 date: 2022-01-23 16:58:00 Z
 Genre: " ALTERNATIVE"
 Country: FRANCE
+Image: "/uploads/Oracle_Sisters.jpg"
 Spotify: https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1?si=ObtXrhDbQOSfyNLyNBLwXg&nd=1
 YouTube: https://www.youtube.com/c/OracleSisters
 Facebook: https://www.facebook.com/oraclesisters/
