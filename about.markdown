@@ -11,3 +11,7 @@ We believe in **freedom**, independence, **diversity** and inclusion.
 We actively listen to our artists needs and work together with them to help them achieve their vision.
 
 We believe in **uniqueness**.
+
+ 
+ 
+ 
