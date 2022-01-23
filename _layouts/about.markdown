@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="background-image">
-  <img src="/assets/images/Blood-Wizard.png">
+  <img src="/valiant/assets/images/Blood-Wizard.png">
 </div>
 
 <div class="about-page-content">
