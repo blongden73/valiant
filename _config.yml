@@ -15,20 +15,20 @@ defaults:
 - scope:
     path: artists
   values:
-    Genre:
-    Country:
-    Image:
-    Label:
-    Spotify:
-    YouTube:
-    Facebook:
-    Instagram:
+    Genre: 
+    Country: 
+    Image: 
+    Label: 
+    Spotify: 
+    YouTube: 
+    Facebook: 
+    Instagram: 
 email: your-email@example.com
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl:
-url:
+baseurl: 
+url: 
 twitter_username: jekyllrb
 github_username: jekyll
 theme: minima
