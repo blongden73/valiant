@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% assign directory = site.artists %}
 
 <div class="window-container">
