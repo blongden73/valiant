@@ -94,9 +94,9 @@ header svg { width: 100px; height: auto; }
 
 header h1 { color: #fff; font-family: 'Parabole'; font-size: 50px; line-height: 0; font-weight: 100; }
 
-.footer { position: fixed; bottom: 10px; width: 100%; height: 70px; display: flex; }
+.footer { position: fixed; bottom: 20px; width: 100%; height: 70px; display: flex; }
 
-.footer svg { width: 100px; height: 70px; }
+.footer svg { width: 100px; height: 70px; animation-name: rotate; animation-duration: 5s; animation-iteration-count: infinite; animation-fill-mode: forwards; animation-timing-function: linear; animation-direction: reverse; }
 
 .activate-menu.active { color: #000; }
 
@@ -121,7 +121,7 @@ nav ul li:hover { color: grey; }
 
 .background-image { position: fixed; top: 0; left: 0; right: 0; bottom: 0; z-index: -1; }
 
-.background-image img { object-fit: cover; width: 100%; height: 100%; filter: blur(50px); }
+.background-image img { object-fit: cover; width: 100%; height: 100%; filter: blur(50px) saturate(2); }
 
 .about-page-content { width: 100%; padding: 0 1%; padding-top: 100px; border-bottom: 1px solid #fff; }
 
