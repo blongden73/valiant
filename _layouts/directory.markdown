@@ -14,7 +14,7 @@ layout: default
       </div>
       <div class="artist-description">
         {{artist.content | markdownify}}
-        <img src="/valiant/{{artist.Image}}">
+        <img src="{{artist.Image}}">
       </div>
     </div>
   {% endfor %}

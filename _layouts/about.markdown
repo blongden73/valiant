@@ -4,9 +4,9 @@ layout: default
 
 <div class="background-image">
   {% if page.title != "About" %}
-    <img src="/valiant/assets/images/Paco_Amoroso.jpg">
+    <img src="assets/images/Paco_Amoroso.jpg">
   {% else %}
-    <img src="/valiant/assets/images/Blood-Wizard.png">
+    <img src="assets/images/Blood-Wizard.png">
   {% endif %}
 </div>
 

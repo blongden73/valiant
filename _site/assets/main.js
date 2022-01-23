@@ -28,7 +28,6 @@ if(event.originalEvent.wheelDelta > 0){
   $(".outer_box").css({"transform":"perspective(2000px) rotateX("+counter+"deg)"})
 }
 })
-console.log('hello');
 var images = document.querySelectorAll('.in_box');
 for(var i=0; i < images.length; i++) {
   console.log(images[i]);
@@ -43,9 +42,11 @@ for(var i=0; i < images.length; i++) {
 }
 
 function menu(){
+  console.log('im here')
   var menubutton = document.querySelector('.activate-menu');
   var nav = document.querySelector('nav');
   var header = document.querySelector('header');
+  console.log(menubutton)
   menubutton.addEventListener('click', function(){
     nav.classList.toggle('active');
     header.classList.toggle('active');
@@ -56,7 +57,7 @@ function menu(){
 function aboutScroller() {
   var para = document.querySelectorAll('.about-page-content p');
   console.log(para);
-  var aboutcheck = document.querySelectorAll('.about-page-content');
+  var aboutcheck = document.querySelector('.about-page-content');
   if(aboutcheck) {
     para[0].classList.add('inview');
     document.addEventListener('scroll', function(){
