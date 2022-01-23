@@ -256,7 +256,7 @@ header h1 {
 
   @include mq($until: desktop) {
     margin-top: 16px;
-    font-size: 30px;
+    font-size: 36px;
   }
 
   @include mq($from: desktop) {
@@ -427,11 +427,12 @@ nav ul li {
     font-size: 32px;
     font-weight: 200;
     font-family: 'Monument Grotesk';
-    filter: blur(10px);
+    filter: blur(0);
     transition: all ease-out 0.5s;
 
     @include mq($from: desktop) {
       font-size: 98px;
+      filter: blur(10px);
     }
 
     &.inview {
@@ -548,7 +549,7 @@ nav ul li {
     text-align: center;
     font-size: 36px;
     position: absolute;
-    bottom: 40px;
+    bottom: 12vh;
     margin-bottom: 0;
     left: 50%;
     width: 100%;
@@ -572,7 +573,7 @@ nav ul li {
   }
 
   img.background-image-src-blur {
-    filter: blur(50px) saturate(2);
+    filter: blur(30px) saturate(2);
     z-index: -1;
   }
 

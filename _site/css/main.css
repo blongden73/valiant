@@ -104,7 +104,7 @@ header svg { width: 100px; height: auto; }
 
 header h1 { color: #fff; font-family: 'Parabole'; font-weight: 100; font-size: 38px; line-height: 0.8; }
 
-@media all and (max-width: 74.99em) { header h1 { margin-top: 16px; font-size: 30px; } }
+@media all and (max-width: 74.99em) { header h1 { margin-top: 16px; font-size: 36px; } }
 
 @media all and (min-width: 75em) { header h1 { font-size: 50px; line-height: 0; } }
 
@@ -157,9 +157,9 @@ nav ul li:hover { color: grey; }
 
 @media all and (min-width: 75em) { .about-page-content { padding: 0 1%; } }
 
-.about-page-content p { color: #fff; font-size: 32px; font-weight: 200; font-family: 'Monument Grotesk'; filter: blur(10px); transition: all ease-out 0.5s; }
+.about-page-content p { color: #fff; font-size: 32px; font-weight: 200; font-family: 'Monument Grotesk'; filter: blur(0); transition: all ease-out 0.5s; }
 
-@media all and (min-width: 75em) { .about-page-content p { font-size: 98px; } }
+@media all and (min-width: 75em) { .about-page-content p { font-size: 98px; filter: blur(10px); } }
 
 .about-page-content p.inview { filter: blur(0); }
 
@@ -197,13 +197,13 @@ nav ul li:hover { color: grey; }
 
 .artist-home-mobile a { position: absolute; top: 0; bottom: 0; left: 0; right: 0; z-index: 1000; }
 
-.artist-home-mobile p { color: #fff; text-align: center; font-size: 36px; position: absolute; bottom: 40px; margin-bottom: 0; left: 50%; width: 100%; transform: translateX(-50%); }
+.artist-home-mobile p { color: #fff; text-align: center; font-size: 36px; position: absolute; bottom: 12vh; margin-bottom: 0; left: 50%; width: 100%; transform: translateX(-50%); }
 
 .artist-home-mobile img { width: 100%; height: 100%; object-fit: cover; position: absolute; }
 
 .artist-home-mobile img.background-image-src { width: auto; height: 30vh; max-width: 80%; left: 50%; top: 50%; transform: translate(-50%, -50%); }
 
-.artist-home-mobile img.background-image-src-blur { filter: blur(50px) saturate(2); z-index: -1; }
+.artist-home-mobile img.background-image-src-blur { filter: blur(30px) saturate(2); z-index: -1; }
 
 @media all and (min-width: 75em) { .artist-home-mobile { display: none; } }
 
