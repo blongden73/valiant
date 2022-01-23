@@ -23,6 +23,7 @@ layout: default
 <div class="mobile-home-wrapper">
 {% for artist in directory %}
   <div class="artist-home-mobile" data-image="{{artist.Image}}">
+    <a href="/directory#{{artist.title | downcase | slugify }}"></a>
     <img class="background-image-src" src="{{artist.Image}}">
     <img class="background-image-src-blur" src="{{artist.Image}}">
     <p><a href="/directory#{{artist.title | downcase | slugify }}">{{artist.title}}</a></p>
