@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-layout: page
+layout: about
 ---
 
 VALIANT is a London based management and live booking agency, created from the undeniable need of change in the current music industry scenario.
