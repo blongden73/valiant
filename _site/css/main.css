@@ -84,7 +84,11 @@ a { text-decoration: none; color: inherit; }
 
 .window-container { width: 100%; height: 100vh; overflow: hidden; }
 
-header { position: fixed; top: 0px; width: 100%; height: 20px; display: flex; justify-content: space-between; padding: 0 1%; box-sizing: border-box; z-index: 200; }
+header { position: fixed; top: 0px; width: 100%; height: 70px; display: flex; justify-content: space-between; padding: 0 1%; box-sizing: border-box; z-index: 200; }
+
+header.active { background-color: transparent !important; }
+
+.layout--directory header { background-color: black; }
 
 header ul li { color: #fff; margin-left: 20px; font-size: 20px; }
 
@@ -130,5 +134,17 @@ nav ul li:hover { color: grey; }
 .about-page-content p.inview { filter: blur(0); }
 
 .about-page-content p strong { font-family: 'Parabole'; text-transform: uppercase; }
+
+.directory-wrapper { width: 100%; padding: 0 1%; box-sizing: border-box; padding-top: 100px; }
+
+.directory-wrapper .artist-card { display: flex; color: #fff; font-family: 'Monument Grotesk'; justify-content: space-between; position: sticky; top: 70px; border-top: 1px solid #fff; background-color: black; }
+
+.directory-wrapper .artist-card h1 { font-weight: normal; }
+
+.directory-wrapper .artist-card-wrapper { border-top: 1px solid #fff; }
+
+.directory-wrapper .artist-card-wrapper p { color: #fff; font-size: 30px; font-weight: normal; font-family: 'Monument Grotesk'; width: 50%; }
+
+.directory-wrapper .artist-card-wrapper img { width: 50%; height: auto; margin-bottom: 20px; }
 
 /*# sourceMappingURL=main.css.map */

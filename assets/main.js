@@ -45,8 +45,10 @@ for(var i=0; i < images.length; i++) {
 function menu(){
   var menubutton = document.querySelector('.activate-menu');
   var nav = document.querySelector('nav');
+  var header = document.querySelector('header');
   menubutton.addEventListener('click', function(){
     nav.classList.toggle('active');
+    header.classList.toggle('active');
     menubutton.classList.toggle('active');
   });
 }menu();

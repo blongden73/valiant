@@ -195,12 +195,22 @@ header {
   position: fixed;
   top:0px;
   width: 100%;
-  height: 20px;
+  height: 70px;
   display: flex;
   justify-content: space-between;
   padding: 0 1%;
   box-sizing: border-box;
   z-index: 200;
+
+  &.active {
+    background-color: transparent !important;
+  }
+}
+
+.layout--directory {
+  header {
+    background-color: black;
+  }
 }
 
 header ul li {
@@ -360,6 +370,46 @@ nav ul li {
       // -webkit-background-clip: text;
       // -webkit-text-fill-color: transparent;
       text-transform: uppercase;
+    }
+  }
+}
+
+.directory-wrapper {
+  width: 100%;
+  padding: 0 1%;
+  box-sizing: border-box;
+  padding-top: 100px;
+
+  .artist-card {
+    display: flex;
+    color: #fff;
+    font-family: 'Monument Grotesk';
+    justify-content: space-between;
+    position: sticky;
+    top: 70px;
+    border-top: 1px solid #fff;
+    background-color: black;
+
+    h1 {
+      font-weight: normal;
+    }
+  }
+
+  .artist-card-wrapper {
+    border-top: 1px solid #fff;
+
+    p {
+      color: #fff;
+      font-size: 30px;
+      font-weight: normal;
+      font-family: 'Monument Grotesk';
+      width: 50%;
+    }
+
+    img {
+      width: 50%;
+      height: auto;
+      margin-bottom: 20px;
     }
   }
 }
