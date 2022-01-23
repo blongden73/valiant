@@ -12,3 +12,7 @@ layout: about
 
 **Artist Enquiries**
 info@valiantartists.com
+
+ 
+
+ 
