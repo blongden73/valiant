@@ -193,7 +193,7 @@ nav ul li:hover { color: grey; }
 
 @media all and (min-width: 75em) { .mobile-home-wrapper { display: none; } }
 
-.artist-home-mobile { border: 1px solid #fff; height: 50vh; position: relative; }
+.artist-home-mobile { border-top: 1px solid #fff; border-bottom: 1px solid #fff; height: 50vh; position: relative; }
 
 .artist-home-mobile a { position: absolute; top: 0; bottom: 0; left: 0; right: 0; z-index: 1000; }
 
