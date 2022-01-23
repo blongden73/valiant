@@ -173,7 +173,7 @@ body{
   top: 0;
   max-width: 100%;
   transform: none;
-  filter: blur(50px);
+  filter: blur(50px) saturate(2);
   z-index: -1;
 }
 
@@ -192,6 +192,7 @@ header {
   justify-content: space-between;
   padding: 0 1%;
   box-sizing: border-box;
+  z-index: 200;
 }
 
 header ul li {
@@ -229,4 +230,74 @@ header h1 {
 .footer svg {
   width: 100px;
   height: 70px;
+}
+
+.activate-menu {
+  &.active {
+    color: #000;
+  }
+}
+
+nav {
+  position: fixed;
+  right: 0;
+  width: 50%;
+  height: 100vh;
+  z-index: 100;
+  pointer-events: none;
+  visibility: hidden;
+  transition: all ease-out 0.5s;
+  transform: rotate3d(1, 1, 1, 120deg);
+
+  &.active {
+    pointer-events: all;
+    visibility: visible;
+    transform: rotate3d(1, 1, 1, 0deg);
+  }
+
+  .translucent {
+    background-color: rgba(255,255,255,1);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    filter: blur(10px);
+  }
+}
+
+nav ul li {
+  list-style: none;
+  font-size: 100px;
+  z-index: 100;
+  position: relative;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.nav-logo {
+  animation-name: rotate;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  position: absolute;
+  bottom: 40px;
+  left: 30px;
+
+  svg {
+    width: 100px;
+    height: auto;
+    
+    path {
+      fill: #000;
+    }
+  }
 }

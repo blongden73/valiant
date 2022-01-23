@@ -23,3 +23,12 @@ for(var i=0; i < images.length; i++) {
     blur.setAttribute('src', data);
   });
 }
+
+function menu(){
+  var menubutton = document.querySelector('.activate-menu');
+  var nav = document.querySelector('nav');
+  menubutton.addEventListener('click', function(){
+    nav.classList.toggle('active');
+    menubutton.classList.toggle('active');
+  });
+}menu();
