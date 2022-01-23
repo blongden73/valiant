@@ -15,9 +15,10 @@ defaults:
 - scope:
     path: artists
   values:
-    Genre: 
+    Genre:
     Country:
     Image:
+    Label:
     Spotify:
     YouTube:
     Facebook:
