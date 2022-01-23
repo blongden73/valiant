@@ -13,7 +13,7 @@ layout: default
     <div class="outer_box">
     {% for artist in directory %}
       <div class="in_box" data-image="/valiant/{{artist.Image}}">
-        <p>{{artist.title}}</p>
+        <p><a href="/valiant/directory#{{artist.title | downcase | slugify }}">{{artist.title}}</a></p>
       </div>
     {% endfor %}
     </div>
