@@ -92,6 +92,14 @@ body{
 	font-size: 16px;
 	margin: 0;
 	background: #000;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.layout--home {
   overflow: hidden;
 }
 
@@ -271,6 +279,10 @@ nav ul li {
   font-size: 100px;
   z-index: 100;
   position: relative;
+
+  &:hover {
+    color: grey;
+  }
 }
 
 @keyframes rotate {
@@ -295,9 +307,53 @@ nav ul li {
   svg {
     width: 100px;
     height: auto;
-    
+
     path {
       fill: #000;
+    }
+  }
+}
+
+.background-image {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+
+  img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    filter: blur(50px);
+  }
+}
+
+.about-page-content {
+  width: 100%;
+  padding: 0 1%;
+  padding-top: 100px;
+  border-bottom: 1px solid #fff;
+
+  p {
+    color: #fff;
+    font-size: 98px;
+    font-weight: 200;
+    font-family: 'Monument Grotesk';
+    filter: blur(10px);
+    transition: all ease-out 0.5s;
+
+    &.inview {
+      filter: blur(0);
+    }
+
+    strong {
+      font-family: 'Parabole';
+      // background: -webkit-linear-gradient(#B6FFFF, #FFC6F6);
+      // -webkit-background-clip: text;
+      // -webkit-text-fill-color: transparent;
+      text-transform: uppercase;
     }
   }
 }

@@ -1,12 +1,30 @@
+function elementInViewport(el) {
+  var top = el.offsetTop;
+  var left = el.offsetLeft;
+  var width = el.offsetWidth;
+  var height = el.offsetHeight;
+
+  while(el.offsetParent) {
+    el = el.offsetParent;
+    top += el.offsetTop;
+    left += el.offsetLeft;
+  }
+
+  return (
+    top >= window.pageYOffset &&
+    left >= window.pageXOffset &&
+    (top + height) <= (window.pageYOffset + window.innerHeight) &&
+    (left + width) <= (window.pageXOffset + window.innerWidth)
+  );
+}
+
 var counter = 0;
 $(document).bind("mousewheel",function(event){
 if(event.originalEvent.wheelDelta > 0){
   counter -= 2;
-  console.log(counter);
   $(".outer_box").css({"transform":"perspective(2000px) rotateX("+counter+"deg)"})
 }else{
   counter += 2;
-  console.log(counter);
   $(".outer_box").css({"transform":"perspective(2000px) rotateX("+counter+"deg)"})
 }
 })
@@ -32,3 +50,22 @@ function menu(){
     menubutton.classList.toggle('active');
   });
 }menu();
+
+function aboutScroller() {
+  var para = document.querySelectorAll('.about-page-content p');
+  console.log(para);
+  var aboutcheck = document.querySelectorAll('.about-page-content');
+  if(aboutcheck) {
+    para[0].classList.add('inview');
+    document.addEventListener('scroll', function(){
+      console.log('scrolling');
+      for(i=0; i<para.length; i++) {
+        if(elementInViewport(para[i])) {
+          para[i].classList.add('inview');
+        }else {
+          para[i].classList.remove('inview');
+        }
+      }
+    });
+  }
+}aboutScroller();
