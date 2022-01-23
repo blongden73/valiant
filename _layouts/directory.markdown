@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% assign directory = site.artists %}
 <div class="directory-wrapper">
   {% for artist in directory %}
