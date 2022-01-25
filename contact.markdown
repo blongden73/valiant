@@ -7,7 +7,7 @@ layout: about
 
 2-3 Shelford Place, N16 9HS, London, United Kingdom
 
-**For information & Inquireis**
+**For information & Inquiries**
 info@valiantartists.com
 
  
