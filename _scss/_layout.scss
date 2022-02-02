@@ -80,6 +80,69 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'NT Dapper';
+    src: url('NTDapper-Black.woff2') format('woff2'),
+        url('NTDapper-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NT Dapper';
+    src: url('NTDapper-Bold.woff2') format('woff2'),
+        url('NTDapper-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NT Dapper';
+    src: url('NTDapper-Medium.woff2') format('woff2'),
+        url('NTDapper-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NT Dapper';
+    src: url('NTDapper-Light.woff2') format('woff2'),
+        url('NTDapper-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NT Dapper';
+    src: url('NTDapper-ExtraLight.woff2') format('woff2'),
+        url('NTDapper-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NT Dapper';
+    src: url('NTDapper-Thin.woff2') format('woff2'),
+        url('NTDapper-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NT Dapper';
+    src: url('NTDapper-Regular.woff2') format('woff2'),
+        url('NTDapper-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 
 *,*:after,*:before{
   -webkit-box-sizing: border-box;
@@ -88,7 +151,7 @@
   box-sizing: border-box;
 }
 body{
-	font-family: 'Monument Grotesk';
+	font-family: 'NT Dapper';
 	font-size: 16px;
 	margin: 0;
 	background: #000;
@@ -189,8 +252,12 @@ a {
   top: 0;
   max-width: 100%;
   transform: none;
-  filter: blur(50px) saturate(2);
+  filter: blur(2000px) saturate(2);
   z-index: -1;
+}
+
+.background-image-src-blur {
+  // opacity: 0.5;
 }
 
 .window-container {
@@ -254,8 +321,8 @@ header svg {
 
 header h1 {
   color: #fff;
-  font-family: 'Parabole';
-  font-weight: 100;
+  font-family: 'NT Dapper';
+  font-weight: 400;
   font-size: 38px;
   line-height: 0.8;
 
