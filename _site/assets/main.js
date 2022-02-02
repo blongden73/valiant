@@ -33,6 +33,10 @@ for(var i=0; i < images.length; i++) {
   console.log(images[i]);
   images[i].addEventListener('mouseover', function(){
     console.log('hovers');
+    for(var j=0; j<images.length; j++) {
+      images[j].classList.remove('hover');
+    }
+    this.classList.add('hover');
     var data = this.dataset.image;
     var src = document.querySelector('.background-image-src');
     var blur = document.querySelector('.background-image-src-blur');
