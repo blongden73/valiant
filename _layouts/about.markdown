@@ -1,15 +1,6 @@
 ---
 layout: default
 ---
-
-<div class="background-image">
-  {% if page.title != "About" %}
-    <img src="/assets/images/Paco_Amoroso.jpg">
-  {% else %}
-    <img src="/assets/images/Blood-Wizard.png">
-  {% endif %}
-</div>
-
-<div class="about-page-content">
+<div class="about-page-content {% if page.title contains 'Contact' %}contact{% endif %}">
   {{page.content | markdownify}}
 </div>

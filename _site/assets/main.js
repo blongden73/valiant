@@ -35,9 +35,9 @@ for(var i=0; i < images.length; i++) {
     console.log('hovers');
     var data = this.dataset.image;
     var src = document.querySelector('.background-image-src');
-    var blur = document.querySelector('.background-image-src-blur');
+    // var blur = document.querySelector('.background-image-src-blur');
     src.setAttribute('src', data);
-    blur.setAttribute('src', data);
+    // blur.setAttribute('src', data);
   });
 }
 

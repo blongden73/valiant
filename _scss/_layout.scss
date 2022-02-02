@@ -145,28 +145,28 @@ a {
 	font-size: 50px;
 	color: #fff;
 }
-.in_box:nth-child(1){ transform: rotateX(0deg) translateZ(300px); }
-.in_box:nth-child(2){ transform: rotateX(16deg) translateZ(300px); }
-.in_box:nth-child(3){ transform: rotateX(32deg) translateZ(300px); }
-.in_box:nth-child(4){ transform: rotateX(48deg) translateZ(300px); }
-.in_box:nth-child(5){ transform: rotateX(64deg) translateZ(300px); }
-.in_box:nth-child(6){ transform: rotateX(80deg) translateZ(300px); }
-.in_box:nth-child(7){ transform: rotateX(96deg) translateZ(300px); }
-.in_box:nth-child(8){ transform: rotateX(112deg) translateZ(300px); }
-.in_box:nth-child(9){ transform: rotateX(128deg) translateZ(300px); }
-.in_box:nth-child(10){ transform: rotateX(144deg) translateZ(300px); }
-.in_box:nth-child(11){ transform: rotateX(160deg) translateZ(300px); }
-.in_box:nth-child(12){ transform: rotateX(176deg) translateZ(300px); }
-.in_box:nth-child(13){ transform: rotateX(192deg) translateZ(300px); }
-.in_box:nth-child(14){ transform: rotateX(208deg) translateZ(300px); }
-.in_box:nth-child(15){ transform: rotateX(224deg) translateZ(300px); }
-.in_box:nth-child(16){ transform: rotateX(240deg) translateZ(300px); }
-.in_box:nth-child(17){ transform: rotateX(256deg) translateZ(300px); }
-.in_box:nth-child(18){ transform: rotateX(272deg) translateZ(300px); }
-.in_box:nth-child(19){ transform: rotateX(288deg) translateZ(300px); }
-.in_box:nth-child(20){ transform: rotateX(304deg) translateZ(300px); }
-.in_box:nth-child(21){ transform: rotateX(320deg) translateZ(300px); }
-.in_box:nth-child(22){ transform: rotateX(336deg) translateZ(300px); }
+.in_box:nth-child(1){ transform: rotateX(0deg) translateZ(300px);}
+.in_box:nth-child(2){ transform: rotateX(16deg) translateZ(300px);}
+.in_box:nth-child(3){ transform: rotateX(32deg) translateZ(300px);}
+.in_box:nth-child(4){ transform: rotateX(48deg) translateZ(300px);}
+.in_box:nth-child(5){ transform: rotateX(64deg) translateZ(300px);}
+.in_box:nth-child(6){ transform: rotateX(80deg) translateZ(300px);}
+.in_box:nth-child(7){ transform: rotateX(96deg) translateZ(300px);}
+.in_box:nth-child(8){ transform: rotateX(112deg) translateZ(300px);}
+.in_box:nth-child(9){ transform: rotateX(128deg) translateZ(300px);}
+.in_box:nth-child(10){ transform: rotateX(144deg) translateZ(300px);}
+.in_box:nth-child(11){ transform: rotateX(160deg) translateZ(300px);}
+.in_box:nth-child(12){ transform: rotateX(176deg) translateZ(300px);}
+.in_box:nth-child(13){ transform: rotateX(192deg) translateZ(300px);}
+.in_box:nth-child(14){ transform: rotateX(208deg) translateZ(300px);}
+.in_box:nth-child(15){ transform: rotateX(224deg) translateZ(300px);}
+.in_box:nth-child(16){ transform: rotateX(240deg) translateZ(300px);}
+.in_box:nth-child(17){ transform: rotateX(256deg) translateZ(300px);}
+.in_box:nth-child(18){ transform: rotateX(272deg) translateZ(300px);}
+.in_box:nth-child(19){ transform: rotateX(288deg) translateZ(300px);}
+.in_box:nth-child(20){ transform: rotateX(304deg) translateZ(300px);}
+.in_box:nth-child(21){ transform: rotateX(320deg) translateZ(300px);}
+.in_box:nth-child(22){ transform: rotateX(336deg) translateZ(300px);}
 
 .background-image-change {
   position: absolute;
@@ -217,7 +217,7 @@ header {
 
   @include mq($from: desktop) {
     padding: 0 1%;
-    height: 70px;
+    height: 90px;
   }
 
   &.active {
@@ -243,8 +243,13 @@ header ul  {
 }
 
 header svg {
-  width: 100px;
+  width: 56px;
   height: auto;
+  cursor: pointer;
+
+  &:hover {
+    transform: scale(1.1);
+  }
 }
 
 header h1 {
@@ -262,6 +267,7 @@ header h1 {
   @include mq($from: desktop) {
     font-size: 50px;
     line-height: 0;
+    margin-top: 44px;
   }
 }
 
@@ -295,6 +301,12 @@ header.active {
 .activate-menu {
   &.active {
     color: #000;
+
+    svg {
+      path {
+        fill: black;
+      }
+    }
   }
 }
 
@@ -420,6 +432,16 @@ nav ul li {
 
   @include mq($from: desktop) {
     padding: 0 1%;
+    padding-top: 150px;
+  }
+
+  &.contact {
+    p {
+      @include mq($from: desktop) {
+        font-size: 44px;
+        filter: blur(0px);
+      }
+    }
   }
 
   p {
@@ -431,7 +453,7 @@ nav ul li {
     transition: all ease-out 0.5s;
 
     @include mq($from: desktop) {
-      font-size: 98px;
+      font-size: 88px;
       filter: blur(10px);
     }
 
@@ -471,7 +493,7 @@ nav ul li {
     font-family: 'Monument Grotesk';
     justify-content: space-between;
     position: sticky;
-    top: 70px;
+    top: 90px;
     border-top: 1px solid #fff;
     background-color: black;
     flex-wrap: wrap;
