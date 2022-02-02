@@ -10,7 +10,7 @@ layout: default
         <h1>{{artist.title}}</h1>
         <h1>{{artist.Genre}}</h1>
         <h1>{{artist.Country}}</h1>
-        <h1>{{artist.title}}</h1>
+        <h1>{{artist.Label}}</h1>
       </div>
       <div class="artist-description">
         {{artist.content | markdownify}}
