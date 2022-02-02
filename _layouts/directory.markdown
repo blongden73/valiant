@@ -14,6 +14,18 @@ layout: default
       </div>
       <div class="artist-description">
         {{artist.content | markdownify}}
+          <div class="artist-audio__player">
+            <audio controls>
+              <source src="{{artist.track}}" type="audio/ogg">
+              <source src="{{artist.track}}" type="audio/mpeg">
+            </audio>
+          </div>
+        <div class="socials flex">
+        <div class="social-link"><a href="{{artist.Facebook}}">FACEBOOK</a></div>
+        <div class="social-link"><a href="{{artist.Instagram}}">INSTAGRAM</a></div>
+        <div class="social-link"><a href="{{artist.Youtube}}">YOUTUBE</a></div>
+          <div class="social-link"><a href="{{artist.Spotify}}">SPOTIFY</a></div>
+        </div>
         <img src="{{artist.Image}}">
       </div>
     </div>

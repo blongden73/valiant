@@ -561,6 +561,21 @@ nav ul li {
      }
   }
 
+  .socials {
+    display: flex;
+
+    .social-link {
+      color: #fff;
+      margin-right: 10px;
+      margin-bottom: 20px;
+      box-sizing: border-box;
+
+      &:hover {
+        border-bottom: 1px solid #fff;
+      }
+    }
+  }
+
   .artist-card {
     display: flex;
     color: #fff;

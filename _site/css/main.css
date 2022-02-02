@@ -193,6 +193,12 @@ nav ul li:hover { color: grey; }
 
 @media all and (max-width: 74.99em) { .directory-wrapper .artist-description { padding-top: 80px; } }
 
+.directory-wrapper .socials { display: flex; }
+
+.directory-wrapper .socials .social-link { color: #fff; margin-right: 10px; margin-bottom: 20px; box-sizing: border-box; }
+
+.directory-wrapper .socials .social-link:hover { border-bottom: 1px solid #fff; }
+
 .directory-wrapper .artist-card { display: flex; color: #fff; font-family: 'Monument Grotesk'; justify-content: space-between; position: sticky; top: 90px; border-top: 1px solid #fff; background-color: black; flex-wrap: wrap; }
 
 @media all and (max-width: 74.99em) { .directory-wrapper .artist-card { border-bottom: 1px solid #fff; top: 80px; } }
