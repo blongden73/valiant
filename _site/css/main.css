@@ -199,6 +199,8 @@ nav ul li:hover { color: grey; }
 
 .directory-wrapper .socials .social-link:hover { border-bottom: 1px solid #fff; }
 
+.directory-wrapper .artist-audio__player { margin-bottom: 20px; }
+
 .directory-wrapper .artist-card { display: flex; color: #fff; font-family: 'Monument Grotesk'; justify-content: space-between; position: sticky; top: 90px; border-top: 1px solid #fff; background-color: black; flex-wrap: wrap; }
 
 @media all and (max-width: 74.99em) { .directory-wrapper .artist-card { border-bottom: 1px solid #fff; top: 80px; } }
