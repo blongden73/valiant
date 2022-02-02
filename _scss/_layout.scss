@@ -204,7 +204,8 @@ a {
 
   &.hover {
     p {
-      color: yellow;
+      color: transparent;
+      -webkit-text-stroke: 1px #fff;
     }
   }
 }

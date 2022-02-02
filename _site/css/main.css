@@ -46,7 +46,7 @@ a { text-decoration: none; color: inherit; }
 
 .in_box { width: 100%; height: 100%; position: absolute; display: flex; align-items: center; justify-content: center; backface-visibility: hidden; border-top: 1px solid #fff; transition: all ease-out 0.3s; }
 
-.in_box.hover p { color: yellow; }
+.in_box.hover p { color: transparent; -webkit-text-stroke: 1px #fff; }
 
 .in_box p { margin: 0; padding: 10px; text-align: center; font-size: 50px; color: #fff; }
 
