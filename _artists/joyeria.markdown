@@ -5,6 +5,7 @@ Genre: ROCK
 Country: UNITED KINGDOM
 Image: "/uploads/Joyeria.jpg"
 Label: SPEDDY WUNDERGROUND
+Track: "/uploads/Here%20Comes%20Trouble-%20Joyeria.mp3"
 Spotify: https://open.spotify.com/artist/4mECc7MwRyuIDdZdXRi5SB?si=zPqeCy3HT46HbXnWmhUIHQ
 YouTube: https://www.youtube.com/watch?v=hCwQCIN1XZc&t=1s
 Instagram: https://www.instagram.com/joyeria.sounds/
