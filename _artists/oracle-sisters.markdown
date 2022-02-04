@@ -4,11 +4,12 @@ date: 2022-01-23 16:58:00 Z
 Genre: " ALTERNATIVE"
 Country: FRANCE
 Image: "/uploads/Oracle_Sisters.jpg"
+Label: 22TWENTY CLUB
+Track: "/uploads/Spotlight-%20Oracle%20Sisters.mp3"
 Spotify: https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1?si=ObtXrhDbQOSfyNLyNBLwXg&nd=1
 YouTube: https://www.youtube.com/c/OracleSisters
 Facebook: https://www.facebook.com/oraclesisters/
 Instagram: https://www.instagram.com/oraclesisters/?hl=en
-Label: 22TWENTY CLUB
 ---
 
 Last year saw Oracle Sisters included in NMEs Essential Artists list and The Line Of Best Fit described their music as “moody soundscapes that evoke an exotic, dream-like state rife with tension and sexual danger.« Everything is now in place for Oracle Sisters to take their place as one of the brightest acts to emerge from the Parisian music scene, with an upcoming double EP release and signing to exciting New York label 22TWENTY. 
