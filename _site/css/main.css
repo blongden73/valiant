@@ -128,8 +128,6 @@ header h1 { color: #fff; font-family: 'Parabole'; font-weight: 400; font-size: 3
 
 .footer { position: fixed; bottom: 20px; width: 100%; height: 70px; display: flex; }
 
-.footer svg { width: 100px; height: 70px; animation-name: rotate; animation-duration: 5s; animation-iteration-count: infinite; animation-fill-mode: forwards; animation-timing-function: linear; animation-direction: reverse; }
-
 @media all and (max-width: 47.99em) { header.active h1 { color: #000; } }
 
 .activate-menu.active { color: #000; }
@@ -199,8 +197,6 @@ nav ul li:hover { color: grey; }
 
 .directory-wrapper .socials .social-link:hover { border-bottom: 1px solid #fff; }
 
-.directory-wrapper .artist-audio__player { margin-bottom: 20px; }
-
 .directory-wrapper .artist-card { display: flex; color: #fff; font-family: 'Monument Grotesk'; justify-content: space-between; position: sticky; top: 90px; border-top: 1px solid #fff; background-color: black; flex-wrap: wrap; }
 
 @media all and (max-width: 74.99em) { .directory-wrapper .artist-card { border-bottom: 1px solid #fff; top: 80px; } }
@@ -211,9 +207,9 @@ nav ul li:hover { color: grey; }
 
 .directory-wrapper .artist-card-wrapper { border-top: 1px solid #fff; }
 
-.directory-wrapper .artist-card-wrapper p { color: #fff; font-size: 30px; font-weight: normal; font-family: 'Monument Grotesk'; width: 50%; }
+.directory-wrapper .artist-card-wrapper p, .directory-wrapper .artist-card-wrapper .listen h1 { color: #fff; font-size: 30px; font-weight: normal; font-family: 'Monument Grotesk'; width: 50%; }
 
-@media all and (max-width: 74.99em) { .directory-wrapper .artist-card-wrapper p { width: 100%; } }
+@media all and (max-width: 74.99em) { .directory-wrapper .artist-card-wrapper p, .directory-wrapper .artist-card-wrapper .listen h1 { width: 100%; } }
 
 .directory-wrapper .artist-card-wrapper img { width: 50%; height: auto; margin-bottom: 20px; }
 
@@ -236,5 +232,43 @@ nav ul li:hover { color: grey; }
 .artist-home-mobile img.background-image-src-blur { filter: blur(30px) saturate(2); z-index: -1; }
 
 @media all and (min-width: 75em) { .artist-home-mobile { display: none; } }
+
+.audio-time { margin-left: 20px; }
+
+.artist-audio__player { padding-top: 25px; padding-bottom: 25px; display: flex; align-items: center; margin-bottom: 20px; transform: translate(0px, 100%); transition: all ease-in-out 0.5s; }
+
+.artist-audio__player.playing { transform: translate(0px, 0); }
+
+footer .artist-audio__player { background-color: white; margin-bottom: 0px; border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding-top: 45px; padding-bottom: 45px; padding-left: 20px; box-sizing: border-box; }
+
+footer .artist-audio__player .progress-container { background-color: #000; }
+
+footer .artist-audio__player svg path { fill: #000; margin-left: 20px; }
+
+footer .artist-audio__player svg rect { fill: #000; }
+
+@media all and (min-width: 75em) { footer .artist-audio__player { width: 100%; } }
+
+@media all and (min-width: 75em) { .artist-audio__player { width: 50%; } }
+
+.artist-audio__player .progress-container { height: 1px; background-color: #fff; width: 100%; }
+
+.play-pause { margin-right: 20px; }
+
+.play-pause svg { width: 30px; height: auto; }
+
+.play-pause .pause { display: none; }
+
+.play-pause .pause.playing { display: block; }
+
+.play-pause .play.playing { display: none; }
+
+.listen { display: flex; margin-bottom: 20px; }
+
+.listen svg { width: 21px; height: auto; margin-right: 10px; }
+
+.listen h1 { color: #fff; line-height: 0; }
+
+.audio-player-title, .time-update { font-size: 30px; font-weight: normal; font-family: 'Monument Grotesk'; color: #000; }
 
 /*# sourceMappingURL=main.css.map */

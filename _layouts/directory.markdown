@@ -14,12 +14,9 @@ layout: default
       </div>
       <div class="artist-description">
         {{artist.content | markdownify}}
-          <div class="artist-audio__player">
-            <audio controls>
-              <source src="{{artist.track}}" type="audio/ogg">
-              <source src="{{artist.track}}" type="audio/mpeg">
-            </audio>
-          </div>
+        {% if artist.Track %}
+          <div class="listen" data-track="{{artist.Track}}" data-artist="{{artist.title}}"><h1><svg width="46" height="44" viewBox="0 0 46 44" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#a)"><path d="M45.053 21.093a1 1 0 0 1 0 1.814L1.923 42.989A1 1 0 0 1 .5 42.082V1.918a1 1 0 0 1 1.422-.906l43.131 20.081Z" fill="#fff"/></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h46v44H0z"/></clipPath></defs></svg>LISTEN</h1></div>
+        {% endif %}
         <div class="socials flex">
         <div class="social-link"><a href="{{artist.Facebook}}">FACEBOOK</a></div>
         <div class="social-link"><a href="{{artist.Instagram}}">INSTAGRAM</a></div>

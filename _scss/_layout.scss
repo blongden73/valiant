@@ -353,17 +353,6 @@ header h1 {
   display:flex;
 }
 
-.footer svg {
-  width: 100px;
-  height: 70px;
-  animation-name: rotate;
-  animation-duration: 5s;
-  animation-iteration-count: infinite;
-  animation-fill-mode: forwards;
-  animation-timing-function: linear;
-  animation-direction: reverse;
-}
-
 header.active {
   h1 {
     @include mq($until: tablet) {
@@ -576,10 +565,6 @@ nav ul li {
     }
   }
 
-  .artist-audio__player {
-    margin-bottom: 20px;
-  }
-
   .artist-card {
     display: flex;
     color: #fff;
@@ -611,7 +596,7 @@ nav ul li {
   .artist-card-wrapper {
     border-top: 1px solid #fff;
 
-    p {
+    p, .listen h1 {
       color: #fff;
       font-size: 30px;
       font-weight: normal;
@@ -695,4 +680,107 @@ nav ul li {
   @include mq($from: desktop) {
     display: none;
   }
+}
+
+.audio-time {
+  margin-left: 20px;
+}
+
+.artist-audio__player {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  transform: translate(0px, 100%);
+  transition: all ease-in-out 0.5s;
+
+  &.playing {
+    transform: translate(0px, 0);
+  }
+
+  footer & {
+    background-color: white;
+    margin-bottom: 0px;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    padding-left: 20px;
+    box-sizing: border-box;
+
+    .progress-container {
+      background-color: #000;
+    }
+
+    svg {
+      path {
+        fill: #000;
+        margin-left: 20px;
+      }
+      rect {
+        fill: #000;
+      }
+    }
+
+    @include mq($from: desktop) {
+      width: 100%;
+    }
+  }
+
+  @include mq($from: desktop) {
+    width: 50%;
+  }
+
+  .progress-container {
+    height: 1px;
+    background-color: #fff;
+    width: 100%;
+  }
+}
+
+.play-pause {
+  margin-right: 20px;
+
+  svg {
+    width: 30px;
+    height: auto;
+  }
+
+  .pause {
+    display: none;
+
+    &.playing {
+      display: block;
+    }
+  }
+
+  .play {
+    &.playing {
+      display: none;
+    }
+  }
+}
+
+.listen {
+  display: flex;
+  margin-bottom: 20px;
+
+  svg {
+    width: 21px;
+    height: auto;
+    margin-right: 10px;
+  }
+
+  h1 {
+    color: #fff;
+    line-height: 0;
+  }
+}
+
+.audio-player-title, .time-update {
+  font-size: 30px;
+  font-weight: normal;
+  font-family: 'Monument Grotesk';
+  color: #000;
 }

@@ -76,3 +76,52 @@ function aboutScroller() {
     });
   }
 }aboutScroller();
+
+function audioplayers() {
+  var audios = document.querySelectorAll('.listen');
+  if(audios){
+      for(i=0; i<audios.length; i++) {
+        var player = document.querySelector('.artist-audio__player');
+        var audioPlayer = player.querySelector('audio');
+        var play = player.querySelector('.play');
+        var pause = player.querySelector('.pause');
+        var progress = player.querySelector('.progress');
+        var time = player.querySelector('.time-update');
+        console.log(audioPlayer);
+
+        audios[i].addEventListener('click', function(){
+          console.log(audioPlayer);
+          var track = this.dataset.track;
+          var aristName = this.dataset.artist;
+          var name = document.querySelector('.audio-player-title');
+          audioPlayer.querySelector('source').setAttribute('src', track);
+          player.classList.add('playing');
+          name.innerText = aristName;
+          audioPlayer.load();
+          audioPlayer.play();
+
+          console.log(audioPlayer);
+
+          time.innerText = audioPlayer.currentTime;
+          setInterval(function(){
+            time.innerText = Math.round(audioPlayer.currentTime) + 's';
+          }, 1000)
+
+          pause.classList.add('playing');
+          play.classList.add('playing');
+        });
+
+        play.addEventListener('click', function(){
+          audioPlayer.play();
+          play.classList.add('playing');
+          pause.classList.add('playing');
+        });
+
+        pause.addEventListener('click', function(){
+          audioPlayer.pause();
+          play.classList.remove('playing');
+          pause.classList.remove('playing');
+        });
+      }
+  }
+}audioplayers();
