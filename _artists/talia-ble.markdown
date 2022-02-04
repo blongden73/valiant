@@ -5,6 +5,7 @@ Genre: RAP/ HIP HOP
 Country: UNITED KINGDOM
 Image: "/uploads/Talia_Ble.jpg"
 Label: WONDER RECORD
+Track: "/uploads/SHENANIGANZ%20-%20TaliaBle.mp3"
 Spotify: https://open.spotify.com/artist/6SyQYlLBlRjNg4kNZ80cZw?si=rf-OVgs1RiCDCbT2VJkgPA
 YouTube: https://www.youtube.com/channel/UCAYvYKzwci4NmmLDRrb04Sw
 Facebook: https://www.facebook.com/TaliaBle-100152251479897/?ref=page_internal
