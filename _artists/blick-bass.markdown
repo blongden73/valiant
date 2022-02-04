@@ -5,6 +5,7 @@ Genre: ALTERNATIVE
 Country: CAMEROON
 Image: "/uploads/Blick_Bassy-0e2f47.jpg"
 Label: " NO FORMAT"
+Track: "/uploads/Roseaux-%20feat.%20Blick%20Bassy%20-%20Kaa%CC%88t.mp3"
 Spotify: https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E?si=wa7PgQ7vQSS9RaPWN9rZ0A
 YouTube: https://www.youtube.com/watch?v=zLB7GQU9BN4&ab_channel=COLORS
 Facebook: https://www.facebook.com/blickbassy
