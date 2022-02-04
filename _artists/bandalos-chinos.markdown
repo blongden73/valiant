@@ -5,6 +5,7 @@ Genre: INDIE ROCK
 Country: ARGENTINA
 Image: "/uploads/Bandalos%20Edit-DSCF0247-0abcdf.jpg"
 Label: PHONOBACH
+Track: "/uploads/Mi%20Fiesta-%20Bandalos%20Chinos.mp3"
 Spotify: https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp?si=gnxkjPdoRImOtnp-LHh_4Q
 YouTube: https://www.youtube.com/channel/UC8MoOCwpZodLL9nDghJ7V1Q
 Facebook: https://www.facebook.com/BandalismoChino/
