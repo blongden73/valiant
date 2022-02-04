@@ -5,6 +5,7 @@ Genre: LATIN HOUSE
 Country: VENEZUELA
 Image: "/uploads/Mj_Nebreda.jpg"
 Label: GODMODE MUSIC
+Track: "/uploads/Pan%20de%20Dios-%20MJ%20Nebreda.mp3"
 Spotify: https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy?si=EqoLv1IfRlKxGyjCXIKvlQ
 Facebook: https://www.facebook.com/mjnebredamusic/
 Instagram: https://www.instagram.com/mjnebreda/
