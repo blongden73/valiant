@@ -125,3 +125,52 @@ function audioplayers() {
       }
   }
 }audioplayers();
+
+function homeaudio() {
+  var tracklist = document.querySelectorAll('.track-list');
+  var playbutton = document.querySelector('.homeplayer .play');
+  var homeplayer = document.querySelector('.homeplayer audio');
+  var homeplayerSource = document.querySelector('.homeplayer audio source');
+  var name = document.querySelector('.homeplayer .audio-player-title');
+  var play = document.querySelector('.homeplayer .play');
+  var pause = document.querySelector('.homeplayer .pause');
+  var time = document.querySelector('.homeplayer .time-update');
+
+  setTimeout(function(){
+    var randomNumber = Math.floor(Math.random() * tracklist.length);
+    var randomise = tracklist[randomNumber].dataset.track;
+    var artistName = tracklist[randomNumber].dataset.artist;
+    homeplayerSource.setAttribute('src', randomise);
+    homeplayer.classList.add('playing');
+    name.innerText = artistName;
+    homeplayer.load();
+    homeplayer.play();
+    time.innerText = homeplayer.currentTime;
+    setInterval(function(){
+      time.innerText = Math.round(homeplayer.currentTime) + 's';
+    }, 1000)
+  }, 1000);
+
+  playbutton.addEventListener('click', function(){
+    // var randomNumber = Math.floor(Math.random() * tracklist.length);
+    // var randomise = tracklist[randomNumber].dataset.track;
+    // var artistName = tracklist[randomNumber].dataset.artist;
+    // homeplayerSource.setAttribute('src', randomise);
+    // homeplayer.classList.add('playing');
+    // name.innerText = artistName;
+    homeplayer.load();
+    homeplayer.play();
+    time.innerText = homeplayer.currentTime;
+    setInterval(function(){
+      time.innerText = Math.round(homeplayer.currentTime) + 's';
+    }, 1000)
+    play.classList.add('playing');
+    pause.classList.add('playing');
+  });
+
+  pause.addEventListener('click', function(){
+    homeplayer.pause();
+    play.classList.remove('playing');
+    pause.classList.remove('playing');
+  });
+}homeaudio();

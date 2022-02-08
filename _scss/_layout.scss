@@ -297,6 +297,34 @@ header {
   &.active {
     background-color: transparent !important;
   }
+
+  .center {
+    @include mq($from: desktop) {
+      width: 70%;
+    }
+  }
+}
+
+.homeplayer {
+padding-top: 27px;
+
+  .pause {
+    width: 24px;
+    height: auto;
+  }
+
+  .player {
+    width: 100%;
+    display: flex;
+
+    .audio-player-title {
+      color: #fff;
+    }
+
+    .audio-time .time-update {
+      color: #fff;
+    }
+  }
 }
 
 .layout--directory {
