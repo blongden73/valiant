@@ -305,8 +305,35 @@ header {
   }
 }
 
+.artists-flex {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+
+  @include mq($from: desktop) {
+    flex-direction: row;
+  }
+
+  & > * {
+    width: 100%;
+
+    @include mq($from: desktop) {
+      width: 48%;
+    }
+
+    img {
+      width: 100% !important;
+      height: auto;
+    }
+  }
+}
+
 .homeplayer {
-padding-top: 27px;
+  padding-top: 27px;
+  display: none;
+  @include mq($from: desktop) {
+      display: block;
+  }
 
   .pause {
     width: 24px;
@@ -375,10 +402,20 @@ header h1 {
 
 .footer {
   position: fixed;
-  bottom: 20px;
+  bottom: 0px;
   width: 100%;
-  height: 70px;
+  height: 50px;
   display:flex;
+
+  .copyright {
+    color: #fff;
+    width: 100%;
+    padding-left: 18px;
+
+    @include mq($from: desktop) {
+      padding-left: 12px;
+    }
+  }
 }
 
 header.active {
@@ -574,7 +611,7 @@ nav ul li {
 
   .artist-description {
      @include mq($until: desktop) {
-       padding-top: 80px;
+       padding-top: 20px;
      }
   }
 
@@ -624,12 +661,18 @@ nav ul li {
   .artist-card-wrapper {
     border-top: 1px solid #fff;
 
+    &:nth-child(1) {
+      .artist-description {
+        padding-top: 80px;
+      }
+    }
+
     p, .listen h1 {
       color: #fff;
       font-size: 30px;
       font-weight: normal;
       font-family: 'Monument Grotesk';
-      width: 50%;
+      width: 90%;
 
       @include mq($until: desktop) {
         width: 100%;
