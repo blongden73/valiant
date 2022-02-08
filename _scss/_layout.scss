@@ -411,6 +411,13 @@ header h1 {
     color: #fff;
     width: 100%;
     padding-left: 18px;
+    font-family: 'Monument Grotesk';
+
+    a {
+      &:hover {
+        text-decoration: underline;
+      }
+    }
 
     @include mq($from: desktop) {
       padding-left: 12px;
