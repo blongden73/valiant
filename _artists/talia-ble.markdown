@@ -1,7 +1,7 @@
 ---
 title: TALIA BLE
 date: 2022-01-23 17:34:00 Z
-position: 5
+position: 19
 Genre: RAP/ HIP HOP
 Country: UNITED KINGDOM
 Image: "/uploads/Talia_Ble.jpg"
