@@ -2,10 +2,8 @@
 title: FITO PAEZ
 date: 2022-01-23 17:42:00 Z
 position: 2
-Genre: ROCK
-Country: ARGENTINA
 Image: "/uploads/Fito%20Paez.jpg"
-Label: SONY MUSIC
+Label: EUROPE exc Spain
 Spotify: https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu?si=Sh9kYF10TDiy_VKD_EmmWw
 YouTube: https://www.youtube.com/channel/UCnlr4LDiHnZCazpfuCT1czg
 Facebook: https://www.facebook.com/fitopaez
