@@ -1,6 +1,7 @@
 ---
 title: VŌX
 date: 2022-01-23 17:46:00 Z
+position: 2
 Genre: ALTERNATIVE
 Country: USA
 Image: "/uploads/Vox.jpg"

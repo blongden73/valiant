@@ -1,6 +1,7 @@
 ---
 title: BANDALOS CHINOS
 date: 2022-01-23 17:32:00 Z
+position: 6
 Genre: INDIE ROCK
 Country: ARGENTINA
 Image: "/uploads/Bandalos%20Edit-DSCF0247-0abcdf.jpg"

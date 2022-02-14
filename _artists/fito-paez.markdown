@@ -1,6 +1,7 @@
 ---
 title: FITO PAEZ
 date: 2022-01-23 17:42:00 Z
+position: 3
 Genre: ROCK
 Country: ARGENTINA
 Image: "/uploads/Fito%20Paez.jpg"

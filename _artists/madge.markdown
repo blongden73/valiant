@@ -1,6 +1,7 @@
 ---
 title: MADGE
 date: 2022-01-23 17:51:00 Z
+position: 1
 Genre: ELECTRONIC
 Country: USA
 Image: "/uploads/Madge3.jpeg"

@@ -1,6 +1,7 @@
 ---
 title: ASTRID CANALES
 date: 2022-01-23 18:04:00 Z
+position: 10
 Genre: R&B
 Country: SPAIN
 Image: "/uploads/Astrid_Canales-b40516.jpg"
