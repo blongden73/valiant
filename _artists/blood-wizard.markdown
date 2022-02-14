@@ -2,10 +2,8 @@
 title: BLOOD WIZARD
 date: 2022-01-23 17:18:00 Z
 position: 11
-Genre: ALTERNATIVE
-Country: UNITED KINGDOM
 Image: "/uploads/Blood%20Wizard%202-b88916.jpg"
-Label: MOSHI MOSHI RECORDS
+Label: BOOKING WW exc North America
 Track: "/uploads/Breaking%20Even-%20Blood%20Wizard.mp3"
 Spotify: https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp?si=Uy8lpKvJRe6oePbvGsfC2A
 YouTube: https://www.youtube.com/channel/UCW4ojzILGute4jfWLUhmRWw
