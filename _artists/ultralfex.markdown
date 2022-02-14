@@ -1,5 +1,5 @@
 ---
-title: ULTRALFEX
+title: ULTRAFLEX
 date: 2022-01-23 17:20:00 Z
 position: 10
 Image: "/uploads/Ultraflex.jpg"
