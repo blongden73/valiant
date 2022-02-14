@@ -2,9 +2,8 @@
 title: TALL JUAN
 date: 2022-01-23 18:01:00 Z
 position: 7
-Genre: INDIE ROCK
-Country: NYC
 Image: "/uploads/Tall_Juan.jpg"
+Label: BOOKING EUROPE + UK
 Track: "/uploads/Don_t%20Come-%20Tall%20Juan.mp3"
 Spotify: https://open.spotify.com/artist/2G5x56il2fMdpAo2l2J2xB?si=FH2vFWjkRgyQXp7s50XhMw
 YouTube: https://www.youtube.com/channel/UC8MoOCwpZodLL9nDghJ7V1Q
