@@ -2,10 +2,8 @@
 title: ULTRALFEX
 date: 2022-01-23 17:20:00 Z
 position: 10
-Genre: ELECTRONIC/DISCO
-Country: BERLIN
 Image: "/uploads/Ultraflex.jpg"
-Label: STREET PULSE RECORDS
+Label: WW exc North America, Iceland & Norway
 Track: "/uploads/Papaya-%20Ultraflex.mp3"
 Spotify: https://open.spotify.com/artist/0GX25ns6c6gNoBmZyb0Sqg?si=LOlFbNoJRqaGurvlSU5EBw
 YouTube: https://www.youtube.com/channel/UC3XgMs5YR_0O-CU7L1xeYeQ
