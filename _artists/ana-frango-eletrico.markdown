@@ -3,7 +3,7 @@ title: ANA FRANGO ELETRICO
 date: 2022-01-23 17:39:00 Z
 position: 3
 Image: "/uploads/Ana_Frango_Electrico-e93510.jpg"
-Label: WW exc North America
+Label: BOOKING WW exc North America
 Track: "/uploads/Promessas%20e%20Previso%CC%83es-%20Ana%20Frango%20Ele%CC%81trico.mp3"
 Spotify: https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1?si=h1eflbS9R66ZsrUU84FAWA
 YouTube: https://www.youtube.com/channel/UCALZ6tkkhtHNej4dxWW9f7Q
