@@ -2,10 +2,8 @@
 title: MADGE
 date: 2022-01-23 17:51:00 Z
 position: 18
-Genre: ELECTRONIC
-Country: USA
 Image: "/uploads/Madge3.jpeg"
-Label: 22TWENTY CLUB
+Label: WW exc North America
 Track: "/uploads/Whatify-%20Madge.mp3"
 Spotify: https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo?si=HzoC0HmyRca2MKbopVP_0Q
 YouTube: https://www.youtube.com/channel/UCRf3dEAQCWU-YzaO5YhBUzA
