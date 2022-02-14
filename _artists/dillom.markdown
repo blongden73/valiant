@@ -2,10 +2,8 @@
 title: DILLOM
 date: 2022-01-23 17:27:00 Z
 position: 6
-Genre: RAP
-Country: ARGENTINA
 Image: "/uploads/Dillom.jpg"
-Label: BOHEMIAN GROOVE
+Label: BOOKING EUROPE + UK
 Spotify: https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2?si=g15KdwIjQN68-npMZGXXTw
 YouTube: https://www.youtube.com/watch?v=9asMQnRyjck
 Instagram: https://www.instagram.com/rip.dillom/
