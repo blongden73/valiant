@@ -1,7 +1,7 @@
 ---
 title: JOYERIA
 date: 2022-01-23 17:53:00 Z
-position: 10
+position: 16
 Genre: ROCK
 Country: UNITED KINGDOM
 Image: "/uploads/Joyeria.jpg"
