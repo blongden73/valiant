@@ -1,7 +1,7 @@
 ---
 title: ORACLE SISTERS
 date: 2022-01-23 16:58:00 Z
-position: 17
+position: 14
 Genre: " ALTERNATIVE"
 Country: FRANCE
 Image: "/uploads/Oracle_Sisters.jpg"

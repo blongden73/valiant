@@ -1,7 +1,7 @@
 ---
 title: JUAN WAUTERS
 date: 2022-01-23 17:11:00 Z
-position: 16
+position: 15
 Genre: " INDIE ALTERNATIVE"
 Country: NYC
 Image: "/uploads/Juan_Wauters.jpg"

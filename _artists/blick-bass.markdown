@@ -1,7 +1,7 @@
 ---
 title: BLICK BASSY
 date: 2022-01-23 17:15:00 Z
-position: 15
+position: 17
 Genre: ALTERNATIVE
 Country: CAMEROON
 Image: "/uploads/Blick_Bassy-0e2f47.jpg"
