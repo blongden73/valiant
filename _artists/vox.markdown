@@ -2,10 +2,8 @@
 title: VŌX
 date: 2022-01-23 17:46:00 Z
 position: 1
-Genre: ALTERNATIVE
-Country: USA
 Image: "/uploads/Vox.jpg"
-Label: ": ARTS & CRAFTS"
+Label: BOOKINGS WW exc North America
 Spotify: https://open.spotify.com/artist/4epdWRtuY7tFHyV7mIW7pE?si=a9w5-MNqSg2mZxB55OdrPQ
 YouTube: https://www.youtube.com/channel/UCv5XteQ0JowPWtkIevQCChg
 Facebook: https://www.facebook.com/itsmevox
