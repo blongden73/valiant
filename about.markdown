@@ -8,7 +8,7 @@ layout: about
 
 We work hard to amplify the voices of multiple cultural communities.
 
-We believe in **freedom**, independence and **diversity**.
+We celebrate independence, **freedom**,  and **diversity**.
 
 We actively listen to our artist's needs and work together with them to help them achieve their vision.
 
