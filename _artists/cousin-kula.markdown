@@ -10,3 +10,6 @@ Instagram: https://instagram.com/cousinkula
 Field name: 
 ---
 
+Living together, nestled in the sun-drenched hills on the outskirts of Bristol, Cousin Kula have created their own musical universe of otherworldly pop serenity with vastly distinct, but complementary elements: "the possibilities of jazz, the emphatic energy of club culture, and the sonic tapestries of psychedelia" CLASH remark "to name but a few."
+
+With a debut full-length record on Rhythm Section at the end of 2021, Cousin Kula flutters into the collective consciousness with a timeless slice of psychedelic soul on their new material. The latest band to emerge out of the buoyant Bristol music scene, they have stripped back all excess baggage for their most accomplished recordings to date.
