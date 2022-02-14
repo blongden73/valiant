@@ -1,7 +1,7 @@
 ---
 title: ORACLE SISTERS
 date: 2022-01-23 16:58:00 Z
-position: 12
+position: 13
 Genre: " "
 Image: "/uploads/Oracle_Sisters.jpg"
 Label: UK

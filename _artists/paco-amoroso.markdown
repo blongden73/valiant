@@ -1,7 +1,7 @@
 ---
 title: PACO AMOROSO
 date: 2022-01-23 17:57:00 Z
-position: 9
+position: 11
 Image: "/uploads/Paco_Amoroso.jpg"
 Label: EUROPE exc Spain
 Spotify: https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR?si=C35lGl0NSr6ROvNS5RBPmQ
