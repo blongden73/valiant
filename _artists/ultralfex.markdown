@@ -1,7 +1,7 @@
 ---
 title: ULTRALFEX
 date: 2022-01-23 17:20:00 Z
-position: 12
+position: 11
 Genre: ELECTRONIC/DISCO
 Country: BERLIN
 Image: "/uploads/Ultraflex.jpg"

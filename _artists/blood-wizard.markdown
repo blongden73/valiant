@@ -1,7 +1,7 @@
 ---
 title: BLOOD WIZARD
 date: 2022-01-23 17:18:00 Z
-position: 13
+position: 12
 Genre: ALTERNATIVE
 Country: UNITED KINGDOM
 Image: "/uploads/Blood%20Wizard%202-b88916.jpg"
