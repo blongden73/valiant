@@ -3,9 +3,8 @@ title: VIRGEN MARIA
 date: 2022-01-23 17:06:00 Z
 position: 20
 Genre: ELECTRONIC
-Country: SPAIN
 Image: "/uploads/Virgen_Maria.jpg"
-Label: PERTH RECORDS
+Label: MGMT/ WW BOOKING
 Track: "/uploads/Nu%CC%81mero%20De%20Oro-%20Virgen%20Maria.flac"
 Spotify: https://open.spotify.com/artist/7nQPn0exIxAqszNNPBNEL0?si=R7IwK9kaRQuF13XJ_LXLTA&nd=1
 YouTube: https://www.youtube.com/channel/UCWI-tYfbSOQeTRQr5GkSnsw
