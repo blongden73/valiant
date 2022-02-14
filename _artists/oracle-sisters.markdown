@@ -2,10 +2,9 @@
 title: ORACLE SISTERS
 date: 2022-01-23 16:58:00 Z
 position: 12
-Genre: " ALTERNATIVE"
-Country: FRANCE
+Genre: " "
 Image: "/uploads/Oracle_Sisters.jpg"
-Label: 22TWENTY CLUB
+Label: UK
 Track: "/uploads/Spotlight-%20Oracle%20Sisters.mp3"
 Spotify: https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1?si=ObtXrhDbQOSfyNLyNBLwXg&nd=1
 YouTube: https://www.youtube.com/c/OracleSisters
