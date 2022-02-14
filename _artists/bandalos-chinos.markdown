@@ -3,7 +3,7 @@ title: BANDALOS CHINOS
 date: 2022-01-23 17:32:00 Z
 position: 4
 Image: "/uploads/Bandalos%20Edit-DSCF0247-0abcdf.jpg"
-Label: BOOKINGS EUROPE + UK
+Label: BOOKING EUROPE + UK
 Track: "/uploads/Mi%20Fiesta-%20Bandalos%20Chinos.mp3"
 Spotify: https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp?si=gnxkjPdoRImOtnp-LHh_4Q
 YouTube: https://www.youtube.com/channel/UC8MoOCwpZodLL9nDghJ7V1Q
