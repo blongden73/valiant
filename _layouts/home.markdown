@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign directory = site.artists %}
+{% assign directory = site.artists | sort:"position" %}
 
 <div class="window-container">
   <div class="background-image-change">
