@@ -1,7 +1,7 @@
 ---
 title: BLOOD WIZARD
 date: 2022-01-23 17:18:00 Z
-position: 12
+position: 21
 Image: "/uploads/1%20(1).png"
 Label: BOOKING WW exc North America
 Track: "/uploads/Breaking%20Even-%20Blood%20Wizard.mp3"
