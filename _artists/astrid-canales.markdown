@@ -1,10 +1,9 @@
 ---
 title: ASTRID CANALES
 date: 2022-01-23 18:04:00 Z
-Genre: R&B
-Country: SPAIN
+position: 9
 Image: "/uploads/Astrid_Canales-b40516.jpg"
-Label: NO FADER
+Label: BOOKING WW exc North America
 Spotify: https://open.spotify.com/artist/6G9WeQxcyitRK6pQ5WboQD?si=EI3H-9vRQpeoaCNPEKH26g
 YouTube: https://www.youtube.com/watch?v=tiLORa9M9hM
 Facebook: https://www.facebook.com/astridcanalesmusica/

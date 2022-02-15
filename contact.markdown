@@ -6,12 +6,12 @@ layout: about
 ---
 
 **For information & Inquiries**\
-info@valiantartists.com
+hello@valiantartists.com
 
 **Address**\
-2-3 Shelford Place, N16 9HS, London, United Kingdom
+3-5 Shelford Place, N16 9HS, London, United Kingdom
 
-Newsletter Sign Up
+
  
 
  

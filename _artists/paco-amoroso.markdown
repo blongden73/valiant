@@ -1,10 +1,9 @@
 ---
 title: PACO AMOROSO
 date: 2022-01-23 17:57:00 Z
-Genre: HIP-HOP/RAP/ELECTRONIC
-Country: ARGENTINA
+position: 11
 Image: "/uploads/Paco_Amoroso.jpg"
-Label: CLIX
+Label: EUROPE exc Spain
 Spotify: https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR?si=C35lGl0NSr6ROvNS5RBPmQ
 YouTube: https://www.youtube.com/watch?v=kLYkKk9U3j0
 Instagram: https://www.instagram.com/pacoamoroso/?hl=en

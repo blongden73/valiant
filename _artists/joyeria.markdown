@@ -1,10 +1,9 @@
 ---
 title: JOYERIA
 date: 2022-01-23 17:53:00 Z
-Genre: ROCK
-Country: UNITED KINGDOM
+position: 17
 Image: "/uploads/Joyeria.jpg"
-Label: SPEDDY WUNDERGROUND
+Label: WW exc North America
 Track: "/uploads/Here%20Comes%20Trouble-%20Joyeria.mp3"
 Spotify: https://open.spotify.com/artist/4mECc7MwRyuIDdZdXRi5SB?si=zPqeCy3HT46HbXnWmhUIHQ
 YouTube: https://www.youtube.com/watch?v=hCwQCIN1XZc&t=1s

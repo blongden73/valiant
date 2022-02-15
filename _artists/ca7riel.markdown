@@ -1,10 +1,10 @@
 ---
 title: CA7RIEL
 date: 2022-01-23 17:37:00 Z
-Genre: " HIP-HOP/RAP/JAZ"
-Country: ARGENTINA
+position: 15
+Genre: " "
 Image: "/uploads/Ca7riel.jpg"
-Label: CLIX
+Label: BOOKING EUROPE exc Spain
 YouTube: https://www.youtube.com/channel/UCysiER15Vj3gjdsNUN84uLA
 Facebook: https://www.facebook.com/POVREx/
 Instagram: https://www.instagram.com/ca7riel/?hl=en

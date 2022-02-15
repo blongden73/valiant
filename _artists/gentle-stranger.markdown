@@ -1,10 +1,9 @@
 ---
 title: GENTLE STRANGER
 date: 2022-01-23 17:48:00 Z
-Genre: INDIE FOLK
-Country: UNITED KINGDOM
+position: 1
 Image: "/uploads/Gentle_Stranger.jpg"
-Label: PRAH RECORDINGS
+Label: BOOKING WW exc North America
 Track: "/uploads/Once%20In%20A%20While-%20Gentle%20Stranger.mp3"
 Spotify: https://open.spotify.com/artist/1184OoZpSbIz02JbT9MntI?si=bgbDwDH8Rw6igp8vvisq-g
 Instagram: https://www.instagram.com/strangergentle/

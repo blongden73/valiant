@@ -1,10 +1,9 @@
 ---
 title: TALIA BLE
 date: 2022-01-23 17:34:00 Z
-Genre: RAP/ HIP HOP
-Country: UNITED KINGDOM
+position: 20
 Image: "/uploads/Talia_Ble.jpg"
-Label: WONDER RECORD
+Label: WW exc North America
 Track: "/uploads/SHENANIGANZ%20-%20TaliaBle.mp3"
 Spotify: https://open.spotify.com/artist/6SyQYlLBlRjNg4kNZ80cZw?si=rf-OVgs1RiCDCbT2VJkgPA
 YouTube: https://www.youtube.com/channel/UCAYvYKzwci4NmmLDRrb04Sw
