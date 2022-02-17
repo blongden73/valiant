@@ -156,7 +156,7 @@ header h1 { color: #fff; font-family: 'Parabole'; font-weight: 400; font-size: 3
 
 .footer .copyright a:hover { text-decoration: underline; }
 
-@media all and (min-width: 75em) { .footer .copyright { padding-left: 12px; } }
+@media all and (min-width: 75em) { .footer .copyright { padding-left: 18px; } }
 
 @media all and (max-width: 47.99em) { header.active h1 { color: #000; } }
 
@@ -215,7 +215,7 @@ nav ul li:hover { color: grey; }
 
 .about-page-content p strong { font-family: 'Parabole'; text-transform: uppercase; }
 
-.directory-wrapper { width: 100%; padding: 0 1%; box-sizing: border-box; padding-top: 100px; }
+.directory-wrapper { width: 100%; padding: 0 1%; box-sizing: border-box; padding-top: 100px; padding-bottom: 50px; }
 
 @media all and (max-width: 74.99em) { .directory-wrapper { padding: 0 3%; } }
 
