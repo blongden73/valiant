@@ -11,4 +11,6 @@ Facebook: https://www.facebook.com/ultraflexband
 Instagram: https://www.instagram.com/ultraflexband/
 ---
 
-Ultraflex is a Norwegian/Icelandic producer duo consisting of solo artists Farao (NO) & Special-K (IS), taking you on a joyride through a disco theme park complete with shimmering roller coasters, kaleidoscopic carousels and the occasional eerie haunted house. Their sound is an exotic cocktail of contemporary disco and futuristic electro-boogie, with a production style resting somewhere between Peggy Gou and The Rah Band, and vocal performances reminiscent of Easter, Saâda Bonaire, and Janet Jackson. Ultraflex brings us a bundle of joy, selfirony and snarky attitude wrapped up in danceable beats. After winning the award for best Icelandic electronic album of 2020 collaborating with Okay Kaya, a new album will be coming out in Autumn 2022.
+Ultraflex is an interdisciplinary collaboration between Farao (NO) and Special-K (IS). Their saucy debut album ‘Visions of Ultraflex’ was released in 2020 to critical and popular acclaim, winning The Icelandic Music Awards 2020 and Kraumur Award. 
+
+Ultraflex’s sound is inspired by disco and synth-funk, a blend between nostalgic 80’s and cutting edge PC Music-type sounds – mixed with new-agy tones, unexpected jazz chords and melodic twists. The band gathers material from “high” and “low” art, pushes it through a pop-culture filter and creates their own brand new lotion carefully tailored to your needs.

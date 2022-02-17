@@ -1,8 +1,8 @@
 ---
 title: GENTLE STRANGER
 date: 2022-01-23 17:48:00 Z
-position: 1
-Image: "/uploads/Gentle_Stranger.jpg"
+position: 0
+Image: "/uploads/GENTLE%20S%20TRANGER.jpg"
 Label: BOOKING WW exc North America
 Track: "/uploads/Once%20In%20A%20While-%20Gentle%20Stranger.mp3"
 Spotify: https://open.spotify.com/artist/1184OoZpSbIz02JbT9MntI?si=bgbDwDH8Rw6igp8vvisq-g
