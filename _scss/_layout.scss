@@ -671,7 +671,9 @@ nav ul li {
 
     &:nth-child(1) {
       .artist-description {
-        padding-top: 80px;
+        @include mq($until: tablet) {
+          padding-top: 80px;
+        }
       }
     }
 
