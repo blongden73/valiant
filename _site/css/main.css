@@ -237,7 +237,7 @@ nav ul li:hover { color: grey; }
 
 .directory-wrapper .artist-card-wrapper { border-top: 1px solid #fff; }
 
-.directory-wrapper .artist-card-wrapper:nth-child(1) .artist-description { padding-top: 80px; }
+@media all and (max-width: 47.99em) { .directory-wrapper .artist-card-wrapper:nth-child(1) .artist-description { padding-top: 80px; } }
 
 .directory-wrapper .artist-card-wrapper p, .directory-wrapper .artist-card-wrapper .listen h1 { color: #fff; font-size: 30px; font-weight: normal; font-family: 'Monument Grotesk'; width: 90%; }
 
