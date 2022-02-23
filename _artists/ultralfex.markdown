@@ -11,6 +11,6 @@ Facebook: https://www.facebook.com/ultraflexband
 Instagram: https://www.instagram.com/ultraflexband/
 ---
 
-Ultraflex is an interdisciplinary collaboration between Farao (NO) and Special-K (IS). Their saucy debut album ‘Visions of Ultraflex’ was released in 2020 to critical and popular acclaim, winning The Icelandic Music Awards 2020 and Kraumur Award. 
+Ultraflex is an interdisciplinary collaboration between Farao (NO) and Special-K (IS). Their saucy debut album ‘Visions of Ultraflex’ was released in 2020 to critical and popular acclaim, winning The Icelandic Music Awards 2021 for ‘Best Electronic Album’ and Kraumur Award for ‘Best Album’, besides collecting nominations to additional international awards.
 
-Ultraflex’s sound is inspired by disco and synth-funk, a blend between nostalgic 80’s and cutting edge PC Music-type sounds – mixed with new-agy tones, unexpected jazz chords and melodic twists. The band gathers material from “high” and “low” art, pushes it through a pop-culture filter and creates their own brand new lotion carefully tailored to your needs.
+Ultraflex’s sound is inspired by the disco, italo and funk of the 80’s, blending it with new-age sensibilities, unexpected jazz chords and melodic twists. The result is a catchy, contemporary whirlwind of dance floor weirdness, nodding to their ancestors in the historical lineage of spectacular electronic music. The duo’s material is both kitsch and high concept – pushed through a contemporary pop culture filter Ultraflex creates their own brand new lotion carefully tailored to your needs.
