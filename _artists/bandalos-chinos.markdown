@@ -1,7 +1,7 @@
 ---
 title: BANDALOS CHINOS
 date: 2022-01-23 17:32:00 Z
-position: 6
+position: 8
 Image: "/uploads/Bandalos.smaller.png"
 Label: BOOKING EUROPE + UK
 Track: "/uploads/Mi%20Fiesta-%20Bandalos%20Chinos.mp3"
