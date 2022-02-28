@@ -1,7 +1,7 @@
 ---
 title: JOYERIA
 date: 2022-01-23 17:53:00 Z
-position: 18
+position: 17
 Image: "/uploads/Joyeria.jpg"
 Label: WW exc North America
 Track: "/uploads/Here%20Comes%20Trouble-%20Joyeria.mp3"

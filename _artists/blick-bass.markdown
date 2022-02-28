@@ -1,7 +1,7 @@
 ---
 title: BLICK BASSY
 date: 2022-01-23 17:15:00 Z
-position: 6
+position: 7
 Image: "/uploads/Blick_Bassy-0e2f47.jpg"
 Label: BOOKING UK
 Track: "/uploads/Roseaux-%20feat.%20Blick%20Bassy%20-%20Kaa%CC%88t.mp3"

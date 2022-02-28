@@ -1,7 +1,7 @@
 ---
 title: MADGE
 date: 2022-01-23 17:51:00 Z
-position: 20
+position: 5
 Image: "/uploads/01122022_Madge3027_LaneeBird.jpg"
 Label: WW exc North America
 Track: "/uploads/Whatify-%20Madge.mp3"
