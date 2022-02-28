@@ -1,7 +1,7 @@
 ---
 title: SARAMALACARA
 date: 2022-01-23 17:30:00 Z
-position: 6
+position: 7
 Image: "/uploads/SARAMALACARAoctubre08293.jpg"
 Label: BOOKING EUROPE + UK
 Spotify: https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir?si=JCxL_2foRUSHOX13l5oGIg

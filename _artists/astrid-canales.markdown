@@ -1,7 +1,7 @@
 ---
 title: ASTRID CANALES
 date: 2022-01-23 18:04:00 Z
-position: 9
+position: 10
 Image: "/uploads/Astrid_Canales-b40516.jpg"
 Label: BOOKING WW exc North America
 Spotify: https://open.spotify.com/artist/6G9WeQxcyitRK6pQ5WboQD?si=EI3H-9vRQpeoaCNPEKH26g
