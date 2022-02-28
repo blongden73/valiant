@@ -1,7 +1,7 @@
 ---
 title: DILLOM
 date: 2022-01-23 17:27:00 Z
-position: 9
+position: 10
 Image: "/uploads/Dillom.jpg"
 Label: BOOKING EUROPE + UK
 Spotify: https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2?si=g15KdwIjQN68-npMZGXXTw
