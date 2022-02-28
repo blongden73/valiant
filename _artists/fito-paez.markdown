@@ -1,7 +1,7 @@
 ---
 title: FITO PAEZ
 date: 2022-01-23 17:42:00 Z
-position: 20
+position: 21
 Image: "/uploads/Fito%20Paez.jpg"
 Label: BOOKING EUROPE exc Spain
 Spotify: https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu?si=Sh9kYF10TDiy_VKD_EmmWw

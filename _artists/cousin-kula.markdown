@@ -1,7 +1,7 @@
 ---
 title: COUSIN KULA
 date: 2022-02-14 13:46:00 Z
-position: 6
+position: 7
 Image: "/uploads/Cousin-Kula-d8d55d.jpg"
 Label: BOOKING WW exc North America
 Spotify: https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd?si=TXsNRP_bSdu7IQj04QSuyA
