@@ -1,6 +1,10 @@
 ---
 title: Micromoon
 date: 2022-04-20 09:24:00 Z
+Image: "/uploads/Micromoon.jpeg"
+Spotify: https://open.spotify.com/artist/3JSGKXSVVbIN8sb56MfcaI?si=bE4Ffp-3SuS3oWCRJIT-vQ
+YouTube: https://www.youtube.com/c/Fuzzbrain
+Instagram: https://www.instagram.com/micromoonlondon/
 ---
 
 Micromoon started in late 2019 by Ben Spence, Dan Alvarez-Giraldo and Rei Mancero-Rodriguez.
