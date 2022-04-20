@@ -1,6 +1,7 @@
 ---
 title: LUCKY BAMBA
 date: 2022-04-20 09:33:00 Z
+position: 14
 Image: "/uploads/LuckyBamba5.jpg"
 Label: Mgmt
 Spotify: https://open.spotify.com/artist/2rT3Wb6R2SMxgoJgOL1XFW?si=fWmrB6n3TEmqKRr1Io1Shw

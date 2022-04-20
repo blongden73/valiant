@@ -1,7 +1,7 @@
 ---
 title: TALL JUAN
 date: 2022-01-23 18:01:00 Z
-position: 14
+position: 16
 Image: "/uploads/Tall_Juan.jpg"
 Label: BOOKING EUROPE + UK
 Track: "/uploads/Don_t%20Come-%20Tall%20Juan.mp3"

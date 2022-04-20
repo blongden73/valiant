@@ -1,7 +1,7 @@
 ---
 title: JUAN WAUTERS
 date: 2022-01-23 17:11:00 Z
-position: 16
+position: 17
 Image: "/uploads/Juan_Wauters.jpg"
 Label: BOOKING EUROPE + UK
 Track: "/uploads/Unity%20%5Bwith%20Cola%20Boyy%5D-%20Juan%20Wauters.mp3"

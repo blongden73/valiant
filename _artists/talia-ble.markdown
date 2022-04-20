@@ -1,7 +1,7 @@
 ---
 title: TALIA BLE
 date: 2022-01-23 17:34:00 Z
-position: 1
+position: 2
 Image: "/uploads/Talia_Ble.jpg"
 Label: WW exc North America
 Track: "/uploads/SHENANIGANZ%20-%20TaliaBle.mp3"
