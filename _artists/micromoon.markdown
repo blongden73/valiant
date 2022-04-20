@@ -1,7 +1,7 @@
 ---
 title: MICROMOON
 date: 2022-04-20 09:24:00 Z
-position: 0
+position: 17
 Image: "/uploads/Micromoon.jpeg"
 Label: Booking WW exc. North America
 Spotify: https://open.spotify.com/artist/3JSGKXSVVbIN8sb56MfcaI?si=bE4Ffp-3SuS3oWCRJIT-vQ
