@@ -2,6 +2,7 @@
 title: GAL GO
 date: 2024-08-15 15:06:00 Z
 Image: "/uploads/HEAD%20SHOT-2_EMILIO%20PICHARDO-46fe42.jpg"
+Label: MGMT
 Spotify: https://open.spotify.com/artist/7n60wrmIBDkDk5MGXyZC0t?si=jYzGJ5M1S264iMF4JGAOIg
 YouTube: https://www.youtube.com/@galgoz
 Facebook: https://www.facebook.com/galgogalgo98
