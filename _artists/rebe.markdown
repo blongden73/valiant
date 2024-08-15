@@ -2,7 +2,8 @@
 title: REBE
 date: 2024-08-15 15:13:00 Z
 Country: Spain
-Image: "/uploads/Foto_2023-10-02_181342_%20(2)-d2977d.jpg"
+Image: "/uploads/Foto_2023-10-02_181342_%20(2)-978d2b.jpg"
+Label: Bookings UK
 Spotify: https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF?si=wodgBvyjQrK3ipRJlZlwaw
 YouTube: https://www.youtube.com/channel/UCQNoDwhFKB6QZ1ipfhUjFBg
 Instagram: https://www.instagram.com/rebequitalabonita/
