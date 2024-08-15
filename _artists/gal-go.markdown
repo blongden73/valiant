@@ -1,6 +1,7 @@
 ---
 title: GAL GO
 date: 2024-08-15 15:06:00 Z
+position: 0
 Genre: MGMT
 Image: "/uploads/HEAD%20SHOT-2_EMILIO%20PICHARDO-46fe42.jpg"
 Label: MGMT
