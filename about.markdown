@@ -4,12 +4,16 @@ permalink: "/about/"
 layout: about
 ---
 
-**VALIANT** is a London based management and booking agency, created from the undeniable need for change in the current music industry scenario.
+*VALIANT* - /ˈvalɪənt/
 
-We celebrate independence, **freedom**,  and **diversity**.
+1. boldly courageous; brave
 
-We believe in the **future**.
+*VALIANT* is a London based creative agency, funded in 2021, after the undeniable need of change present in the current scenario in the music industry.
 
- 
+For that we stand. 
+
+What is a rebel? A person who says no, but whose refusal does not imply a renunciation. A person who says yes as soon as it think's for itself.
+
+In every act of rebellion the concerned individual experiences not only a feeling of revulsion at the infringements of it's rights but also a complete and spontaneous loyalty to aspects of the self.
  
  
