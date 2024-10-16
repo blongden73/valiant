@@ -1,6 +1,7 @@
 ---
 title: TALL JUAN
 date: 2024-10-16 10:35:00 Z
+Genre: BOOKING
 Image: "/uploads/talljuan_0110.jpg"
 Spotify: https://open.spotify.com/artist/2G5x56il2fMdpAo2l2J2xB
 YouTube: https://www.youtube.com/watch?si=PllLI8W-fDs3u72a&v=dY0o1Zg2wDc&feature=youtu.be
